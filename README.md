@@ -1,4 +1,4 @@
-# mortgage-calculator-vue3
+# Courses App!
 
 ## Project setup
 ```
